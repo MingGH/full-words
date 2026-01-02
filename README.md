@@ -2,6 +2,12 @@
 
 A simple, big screen text display tool built with React and Tailwind CSS.
 
+<img width="1620" height="899" alt="image" src="https://github.com/user-attachments/assets/536e7ca3-d9a9-4d2c-9b5c-0d51b8e44d5c" />
+
+## Live Demo
+
+https://fullwords.gongju.dev/
+
 ## Features
 
 - **Big Text Display**: Type anything and show it on a big screen.
