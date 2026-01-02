@@ -166,6 +166,24 @@ function App() {
           <Maximize size={20} className="group-hover:scale-110 transition-transform" /> 
           <span>Go Full Screen</span>
         </button>
+
+        {/* Footer Links */}
+        <div className="mt-4 pt-4 border-t border-gray-100 text-xs text-gray-500">
+          <div className="flex flex-wrap gap-x-4 gap-y-2 justify-center md:justify-start font-medium">
+            <a href="https://gongju.dev/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors flex items-center gap-1">
+              Toolbox
+            </a>
+            <a href="https://www.runnable.run/about/" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors flex items-center gap-1">
+              Asher's Blog
+            </a>
+            <a href="https://github.com/MingGH" target="_blank" rel="noopener noreferrer" className="hover:text-blue-600 transition-colors flex items-center gap-1">
+              GitHub
+            </a>
+          </div>
+          <div className="mt-2 text-center md:text-left opacity-60">
+            © 2025 Full Words. Built by Asher.
+          </div>
+        </div>
       </div>
 
       {/* Preview Area */}
